@@ -1,0 +1,7 @@
+[user]
+	name = Andrew Lomer
+	email = andrewlomer64@gmail.com
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
